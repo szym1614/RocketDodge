@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - backgroundBlack
+  - currentScore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1335495387
+    locked: 0
+  - name: Stars
+    uniqueID: 2534979297
+    locked: 0
+  - name: Ground
+    uniqueID: 1620723049
+    locked: 0
+  - name: Rocket
+    uniqueID: 1357908109
+    locked: 0
+  - name: Trail
+    uniqueID: 2782545991
+    locked: 0
